@@ -3,6 +3,17 @@
   "version": "0.0.2",
   "description": "Find unused labels in your project",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psmyrdek/unused-labels.git"
+  },
+  "homepage": "https://github.com/psmyrdek/unused-labels",
+  "readme": "https://github.com/psmyrdek/unused-labels/blob/master/README.md",
+  "keywords": [
+    "yaml",
+    "cli",
+    "i18n"
+  ],
   "bin": {
     "unsd": "bin/unsd.js"
   },
@@ -17,6 +28,7 @@
     "glob": "^7.1.6",
     "glob-promise": "^3.4.0",
     "minimist": "^1.2.5",
+    "string-similarity": "^4.0.1",
     "yaml": "^1.8.3"
   },
   "devDependencies": {
