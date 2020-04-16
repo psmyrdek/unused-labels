@@ -1,4 +1,4 @@
-# Unused Labels (unsd)
+# 🕵🏻‍♂️ Unused Labels (unsd)
 
 Find out which labels are not being used in your project.
 
