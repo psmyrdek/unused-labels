@@ -28,7 +28,6 @@
     "glob": "^7.1.6",
     "glob-promise": "^3.4.0",
     "minimist": "^1.2.5",
-    "string-similarity": "^4.0.1",
     "yaml": "^1.8.3"
   },
   "devDependencies": {

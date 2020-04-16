@@ -8,5 +8,5 @@ test('should create basic summary', async () => {
     outDirName: join(__dirname, './results'),
   });
   const result = require('./results/unused-labels.json');
-  expect(result.length).toBe(12);
+  expect(result.length).toBe(0);
 });
