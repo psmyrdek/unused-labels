@@ -7,7 +7,7 @@ Find out which labels are not being used in your project.
 ## Usage
 
 ```
-npx unsd --src labels.yaml --dir dir/to/scan
+npx unused-labels --src labels.yaml --dir dir/to/scan
 ```
 
 * **src** - source file (yaml)
