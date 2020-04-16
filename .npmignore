@@ -1,1 +1,3 @@
+__tests__
 media
+jest.config.js

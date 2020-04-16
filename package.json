@@ -6,7 +6,9 @@
   "bin": {
     "unsd": "bin/unsd.js"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "jest __tests__"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -16,5 +18,8 @@
     "glob-promise": "^3.4.0",
     "minimist": "^1.2.5",
     "yaml": "^1.8.3"
+  },
+  "devDependencies": {
+    "jest": "25.3.0"
   }
 }

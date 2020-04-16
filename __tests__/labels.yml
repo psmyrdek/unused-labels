@@ -1,0 +1,22 @@
+website:
+  sections:
+    header: "Hello!"
+    main: "Welcome to our page!"
+  auth:
+    session_expired: "Your session expired. Sign in once again"
+  buttons:
+    save: "Save"
+    cancel: "Cancel"
+  months:
+    jan: "January"
+    feb: "February"
+    mar: "March"
+    apr: "April"
+    may: "May"
+    jun: "June"
+    jul: "July"
+    aug: "August"
+    sep: "September"
+    oct: "October"
+    nov: "November"
+    dec: "December"

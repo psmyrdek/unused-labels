@@ -12,3 +12,4 @@ npx unused-labels --src labels.yaml --dir dir/to/scan
 
 * **src** - source file (yaml)
 * **dir** - directory to scan
+* **outDir** - directory to store result (optional)
