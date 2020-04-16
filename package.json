@@ -1,6 +1,6 @@
 {
   "name": "unused-labels",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Find unused labels in your project",
   "main": "index.js",
   "repository": {
